@@ -1,0 +1,81 @@
+LINKS
+
+Configurações, Cadastros, Agendamentos, Ambulatorial - https://www.youtube.com/@silibrinatecnologia5554/videos
+
+Areas -> Modulos -> 
+
+Assistência Social
+Cidadão
+Configuração
+Educação
+Financeiro
+	- Caixa
+	- Contabilidade
+	- Custos
+	- Empenho
+	- Orçamento
+Gestor
+Patrimonial
+	- Compras
+	- Contratos
+	- Licitações 
+	- Material
+	- Ouvidoria
+	- Patrimonial
+	- Protocolo
+	- Veículos 
+Recursos Humanos
+Saúde
+	- Agendamento
+	- Ambulatorial
+	- Farmácia
+	- Hiperdia
+	- Laboratório
+	- TFD
+	- Vacinas
+Tributário
+
+- Configuraç~eos
+
+INSTITUIÇÃO
+ORGAOS
+UNIDADES
+DEPARTAMENTOS 
+
+
+OBS: Cada modulo atual em um departamento
+OBS: Todo modulo parecer ter os mesmo menus -> Cadastro, Consultas, Relatórios, Módulos, Help
+
+CBO - Cadastro Báscico de Ocupações
+CNES - Cadastro Nacional de Estabelecimentos de Saúde
+CTPS - Carteira de Trabalho e Previdência Social
+FAA - Ficha de Atendimento Ambulatorial
+
+Cadastro de Pessoas Fisícas e Juridicas
+	- Dados Princiapais
+	- Também tem upload de fotos de documentos.
+	
+
+Agendamentos 
+Água
+Alimentação Escolar
+Ambulatorial
+Arrecadação
+Biblioteca
+Cadastro
+Caixa
+Cemitério
+Compras
+Configurações
+Contabilidade
+Contatos
+Contratos
+Contrib
+Custos
+DBPref
+Diversos
+
+
+dbseller
+Cria uma base nova com essa sua cópia e altera no db_conn.php
+
