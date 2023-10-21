@@ -1,6 +1,4 @@
-# LINKS
-
-Configurações, Cadastros, Agendamentos, Ambulatorial - https://www.youtube.com/@silibrinatecnologia5554/videos
+#### Discovery da Estrutura Geral
 
 Areas -> Modulos -> 
 
@@ -35,25 +33,37 @@ Saúde
 	- Vacinas
 Tributário
 
-- Configurações
+#### Configurações
 
-INSTITUIÇÃO
-ORGAOS
-UNIDADES
-DEPARTAMENTOS 
+Instituição
+Orgaos
+Unidades
+Departamentos 
+
+#### Observações 
 
 OBS: Cada modulo atual em um departamento
 OBS: Todo modulo parecer ter os mesmo menus -> Cadastro, Consultas, Relatórios, Módulos, Help
+
+#### Siglas
 
 CBO - Cadastro Báscico de Ocupações
 CNES - Cadastro Nacional de Estabelecimentos de Saúde
 CTPS - Carteira de Trabalho e Previdência Social
 FAA - Ficha de Atendimento Ambulatorial
 
+#### Cadastros do Sistema
+
 Cadastro de Pessoas Fisícas e Juridicas
 	- Dados Princiapais
 	- Também tem upload de fotos de documentos.
 	
+#### Arquivo de Configuração de Banco de Dados
+
+dbseller
+Cria uma base nova com essa sua cópia e altera no db_conn.php
+
+#### Outros
 
 Agendamentos 
 Água
@@ -73,7 +83,3 @@ Contrib
 Custos
 DBPref
 Diversos
-
-dbseller
-Cria uma base nova com essa sua cópia e altera no db_conn.php
-
