@@ -1,4 +1,4 @@
-LINKS
+# LINKS
 
 Configurações, Cadastros, Agendamentos, Ambulatorial - https://www.youtube.com/@silibrinatecnologia5554/videos
 
@@ -35,13 +35,12 @@ Saúde
 	- Vacinas
 Tributário
 
-- Configuraç~eos
+- Configurações
 
 INSTITUIÇÃO
 ORGAOS
 UNIDADES
 DEPARTAMENTOS 
-
 
 OBS: Cada modulo atual em um departamento
 OBS: Todo modulo parecer ter os mesmo menus -> Cadastro, Consultas, Relatórios, Módulos, Help
@@ -74,7 +73,6 @@ Contrib
 Custos
 DBPref
 Diversos
-
 
 dbseller
 Cria uma base nova com essa sua cópia e altera no db_conn.php
